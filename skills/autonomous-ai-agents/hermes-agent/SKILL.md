@@ -8,7 +8,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [hermes, setup, configuration, multi-agent, spawning, cli, gateway, themes, skins, desktop-plugins, tui-widgets, petdex, development]
-    homepage: https://github.com/NousResearch/hermes-agent
+    homepage: https://github.com/cyt9772/hermes-agent
     related_skills: [claude-code, codex, opencode]
 ---
 
@@ -38,7 +38,7 @@ Good verification targets:
 
 - CLI commands: `hermes --help`, `hermes <command> --help`, and `hermes_cli/main.py`
 - User documentation: https://hermes-agent.nousresearch.com/docs/
-- Source tree: https://github.com/NousResearch/hermes-agent
+- Source tree: https://github.com/cyt9772/hermes-agent
 
 ## Quick Start
 

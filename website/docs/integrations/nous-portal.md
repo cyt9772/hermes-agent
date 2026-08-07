@@ -264,7 +264,7 @@ The Portal routes each model to a suitable backend — some through OpenRouter, 
 /model anthropic/claude-opus-4.6
 ```
 
-If a model is genuinely missing, [open an issue](https://github.com/NousResearch/hermes-agent/issues) — we surface the Portal's catalog to Hermes and gaps usually mean a routing config we can update.
+If a model is genuinely missing, [open an issue](https://github.com/cyt9772/hermes-agent/issues) — we surface the Portal's catalog to Hermes and gaps usually mean a routing config we can update.
 
 ### Bills not appearing on my Portal account
 

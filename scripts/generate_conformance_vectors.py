@@ -231,7 +231,7 @@ def generate(out_dir: Path) -> Dict[str, Any]:
                 "native renderers are the oracle (executable spec)."
             ),
             "oracle": {
-                "repo": "NousResearch/hermes-agent",
+                "repo": "cyt9772/hermes-agent",
                 "commit": commit,
                 "generator": "scripts/generate_conformance_vectors.py",
                 "generator_version": GENERATOR_VERSION,

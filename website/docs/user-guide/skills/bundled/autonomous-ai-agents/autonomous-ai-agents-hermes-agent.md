@@ -55,7 +55,7 @@ Good verification targets:
 
 - CLI commands: `hermes --help`, `hermes <command> --help`, and `hermes_cli/main.py`
 - User documentation: https://hermes-agent.nousresearch.com/docs/
-- Source tree: https://github.com/NousResearch/hermes-agent
+- Source tree: https://github.com/cyt9772/hermes-agent
 
 ## Quick Start
 
